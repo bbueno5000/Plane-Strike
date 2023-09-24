@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Plane Strike</string>
+    <string name="text_prompt" translatable="false">Tap any cell in the agent board as your strike.\nRed - hit \t Yellow - miss</string>
+    <string name="reset_game">Reset game</string>
+    <string name="image">image</string>
+</resources>
